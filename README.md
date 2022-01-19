@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Prerna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prerna-tyagi-a28637222/)](https://www.linkedin.com/in/prerna-tyagi-a28637222/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Prerna-green)](https://tyagiprerna28)
+[![Website Badge](https://img.shields.io/badge/WebSite-Prerna-green)]( https://tyagiprerna28.github.io/profile/)
 
 
 I'm
